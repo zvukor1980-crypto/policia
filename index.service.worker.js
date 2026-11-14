@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1794638130|3670241';
+const CACHE_VERSION = '1794638341|2314230';
 /** @type {string} */
 const CACHE_PREFIX = 'Полиция: Ночной -sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
